@@ -1,0 +1,104 @@
+# Hoopix — Generative Engine Optimization Map
+
+> A clothing brand seeking an online presence. The specific style, target audience, and brand identity are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://hoopix-fb55971c.zappy5.app
+היכנסו לעולם האופנה וההלבשה של Hoopix. קולקציות מעוצבות שמחכות רק לך. רענן את המלתחה עוד היום וגלה פריטים שיגרמו לך לבלוט בכל מקום.
+
+### הסיפור שלנו
+https://hoopix-fb55971c.zappy5.app/brand-story
+הצטרפו למסע של Hoopix, מותג אופנה והלבשה שנולד מתשוקה לעיצוב. הכירו את החזון, האנשים והסיפורים שמאחורי כל פריט. בואו להיות חלק מהסיפור שלנו.
+
+### קיימות
+https://hoopix-fb55971c.zappy5.app/sustainability
+ב-Hoopix אנחנו מאמינים שאופנה והלבשה יכולות לשנות את העולם. גלו את מחויבותנו לקיימות, חומרים ממוחזרים ותהליכי ייצור הוגנים. הצטרפו למהפכה האופנתית הנקייה.
+
+### צור קשר
+https://hoopix-fb55971c.zappy5.app/contact
+יש לך שאלה על הקולקציה החדשה של Hoopix? צוות האופנה וההלבשה שלנו כאן בשבילך. שלחו הודעה, נשמח לשמוע ממך ולעזור לך למצוא את הלוק המושלם.
+
+### Products
+https://hoopix-fb55971c.zappy5.app/products
+המוצרים שלנו - Hoopix
+
+### Cart
+https://hoopix-fb55971c.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://hoopix-fb55971c.zappy5.app/checkout
+תשלום
+
+### Login
+https://hoopix-fb55971c.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://hoopix-fb55971c.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://hoopix-fb55971c.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://hoopix-fb55971c.zappy5.app/product/:slug
+פרטי המוצר - Hoopix
+
+### Category
+https://hoopix-fb55971c.zappy5.app/category/:slug
+מוצרים - Hoopix
+
+### תודה שפניתם | Hoopix
+https://hoopix-fb55971c.zappy5.app/thank-you
+Hoopix - תודה שפניתם | Hoopix
+
+## Legal & Policy
+
+### Privacy Policy
+https://hoopix-fb55971c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://hoopix-fb55971c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://hoopix-fb55971c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Hoopix
+A clothing brand seeking an online presence. The specific style, target audience, and brand identity are yet to be defined.
+
+## Target Audience
+- חובבי אופנה אקולוגית
+- מעצבי טרנדים עירוניים
+- חובבי קניות באינטרנט
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://hoopix-fb55971c.zappy5.app/sitemap.xml
+- Robots: https://hoopix-fb55971c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://hoopix-fb55971c.zappy5.app/llms-full.txt
+- Products (JSON): https://hoopix-fb55971c.zappy5.app/products.json
+- Products (Google Merchant RSS): https://hoopix-fb55971c.zappy5.app/product-feed.xml
